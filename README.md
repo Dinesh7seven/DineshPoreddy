@@ -117,15 +117,15 @@ A web application that identifies plants using AI.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/dinesh-poreddy">
 <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Dinesh7seven">
 <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
 </p>
 
-📧 Email: YOUR_EMAIL@example.com
+📧 Email: poreddydinesh9@gmail.com
 
 ---
 
