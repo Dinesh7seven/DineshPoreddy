@@ -30,7 +30,7 @@
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### Data Analytics & Visualization
@@ -43,7 +43,7 @@
 
 ### Database
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Tools
